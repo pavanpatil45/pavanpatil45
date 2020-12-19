@@ -13,10 +13,10 @@
 <p align="left">
   
 <a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="instagram" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/p4v4n_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="linkedin" height="30" width="30" /></a>
+<a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="twitter" height="30" width="40" /></a>
+<a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/p4v4n_45" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" alt="reddit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
