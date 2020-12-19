@@ -1,22 +1,27 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)
+<!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)-->
 <h1 align="center">Hi 👋, I'm P4V4N</h1>
 <h3 align="center">Trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="pavanpatil45" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 You can also check out my portfolio at [https://pavanpatil45.github.io/](https://pavanpatil45.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://pavanpatil45.github.io/P4V4N-Page](https://pavanpatil45.github.io/P4V4N-Page)
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
+- 📫 How to reach me **pavanadhao685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pavanpatil45" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/pavanpatil45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pavanpatil45" height="30" width="40" /></a>
-<a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khushboo goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pavanpatil45" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pavanpatil45" height="30" width="40" /></a>
+
+<a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pavanpatil45" height="30" width="40" /></a>
+
+<a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pavanpatil45" height="30" width="40" /></a>
+
+<a href="https://www.reddit.com/user/p4v4n_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="pavanpatil45" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
