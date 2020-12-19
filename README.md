@@ -15,7 +15,7 @@
 <a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" <span class="icon"><i class="fab fa-facebook fa-2x"></i></span> alt="facebook" height="30" width="40" /></a>
+<a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/p4v4n_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="reddit" height="30" width="40" /></a>
 </p>
 
