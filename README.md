@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="pavanpatil45" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 👨‍💻 Check out my github page [Click Here] (https://pavanpatil45.github.io/P4V4N-Page)
+- 👨‍💻 Check out my github page [Click Here](https://pavanpatil45.github.io/P4V4N-Page)
 
 - 📫 How to reach me **pavanadhao685@gmail.com**
 
