@@ -3,7 +3,7 @@
 <h3 align="center">Trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="pavanpatil45" /> </p>
-<img align="right" alt="Coding" width="400" src="./g2.gif">
+<img align="right" alt="Coding" width="400" src="./g3.gif">
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 - 👨‍💻 Check out my github page [**Here**](https://pavanpatil45.github.io/P4V4N-Page)
