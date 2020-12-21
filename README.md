@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check out my github page [**Here**](https://pavanpatil45.github.io/P4V4N-Page)
 
-- 📫 How to reach me **pavanadhao685@gmail.com**
+<!--- 📫 How to reach me **pavanadhao685@gmail.com**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
