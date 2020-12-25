@@ -4,7 +4,7 @@
 I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im currently developing Native Android apps, Learning about Linux Security, Python and everything :D also im always enthusiastic about trying and Exploring new Frameworks and Tehnologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="pavanpatil45" /> </p>
-<img align="right" alt="Coding" width="400" src="./g11.gif">
+<img align="right" alt="Coding" width="400" src="./g6.gif">
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 - 👨‍💻 Check out my github page [**Here**](https://pavanpatil45.github.io/P4V4N-Page)
