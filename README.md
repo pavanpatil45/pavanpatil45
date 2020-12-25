@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)-->
-## Hi I'm P4V4N <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there I'm P4V4N <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <!--<h1 align="center">Hi 👋, I'm P4V4N</h1>-->
-I'm Pavan Patil Student of IT Engineering at SPPU, Besides from my studies im currently Learning & Developing Native Android apps. im always enthusiastic about trying and Exploring new frameworks and tehnologies.
+I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im currently Developing Native Android apps, Learning about linux Security, Python and everything :D also im always enthusiastic about trying and Exploring new Frameworks and Tehnologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="pavanpatil45" /> </p>
 <img align="right" alt="Coding" width="400" src="./g11.gif">
