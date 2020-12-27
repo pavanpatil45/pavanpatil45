@@ -20,7 +20,6 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="facebook" height="30" width="30" /></a>&nbsp;
 <a href="https://www.reddit.com/user/p4v4n_45" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" alt="reddit" height="30" width="30" /></a>&nbsp;
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.oracle.com/in/java/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
@@ -30,6 +29,7 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/> </a> 
+<a href="https://www.firebase.com/" target="_blank"> <img src="https://icons8.com/icon/62452/firebase" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
