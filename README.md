@@ -27,9 +27,9 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://www.python.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <!--<a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" alt="android" width="30" height="30"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> -->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
