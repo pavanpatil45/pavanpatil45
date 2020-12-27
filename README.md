@@ -34,8 +34,6 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <!--<a href="https://kotlinlang.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/> </a> -->
 <a href="https://www.debian.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/debian/debian-plain.svg" alt="debian" width="30" height="30"/> </a>
-
-
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg" alt="photoshop" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/premierepro/premierepro-original.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </a>
