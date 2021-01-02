@@ -40,9 +40,7 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/premierepro/premierepro-original.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpatil45&show_icons=true&locale=en&layout=compact" alt="pavanpatil45" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil45&show_icons=true&locale=en" alt="pavanpatil45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpatil45&show_icons=true&locale=en&layout=compact" alt="pavanpatil45" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil45&show_icons=true&locale=en" alt="pavanpatil45" /></p>
 
 
 
