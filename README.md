@@ -14,7 +14,7 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" alt="instagram" width="30" /></a>&nbsp;
+<a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="./connect with me/instagram.png" alt="instagram" width="30" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/14926087/pavan-patil?tab=profile " target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stack-overflow" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/pavanpatil45" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-logo-7249D46199-seeklogo.com.png" alt="twitter" width="30" /></a>&nbsp;
