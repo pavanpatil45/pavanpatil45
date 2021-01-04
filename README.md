@@ -23,22 +23,22 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.oracle.com/in/java/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://www.oracle.com/in/java/" target="_blank"> <img src="/tools used/java.svg" alt="java" width="30" height="30"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="/tools used/python.svg" alt="python" width="30" height="30"/> </a>
 <!--<a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" alt="android" width="30" height="30"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> -->
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="/tools used/flutter.svg" alt="flutter" width="30" height="30"/> </a> 
 <!--<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" alt="premierpro" width="30" height="30"/> </a>-->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="30" height="30"/> </a> 
-<a href="https://www.firebase.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="mysql" width="30" height="30"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/mysql.svg" alt="mysql" width="30" height="30"/> </a> 
+<a href="https://www.firebase.com/" target="_blank"> <img src="/tools used/firebase.png" alt="mysql" width="30" height="30"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="/tools used/git.svg" alt="git" width="30" height="30"/> </a> 
 <!--<a href="https://kotlinlang.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/> </a> -->
-<a href="https://www.debian.org/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/debian/debian-plain.svg" alt="debian" width="30" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg" alt="photoshop" width="30" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/premierepro/premierepro-original.svg" alt="premierpro" width="30" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </a>
+<a href="https://www.debian.org/" target="_blank"> <img src="/tools used/debian.svg" alt="debian" width="30" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="illustrator.svg" alt="photoshop" width="30" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpatil45&show_icons=true&locale=en&layout=compact" alt="pavanpatil45" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil45&show_icons=true&locale=en" alt="pavanpatil45" /></p>
 
