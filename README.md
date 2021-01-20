@@ -35,7 +35,7 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil45&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil45&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpatil45&hide=TeX&layout=compact)
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
