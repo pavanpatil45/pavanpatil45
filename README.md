@@ -38,8 +38,5 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil45&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpatil45&theme=vue-dark&hide=TeX&layout=compact)
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&layout=compact&langs_count=8&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
