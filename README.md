@@ -35,9 +35,8 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpatil45&show_icons=true&locale=en&layout=compact" alt="pavanpatil45" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanpatil45&show_icons=true&locale=en" alt="pavanpatil45" /></p>
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil45&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpatil45&hide=TeX&layout=compact)
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=DOOMSTERR&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOOMSTERR&layout=compact&langs_count=8&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
