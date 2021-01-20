@@ -8,7 +8,7 @@ I'm Pavan Patil Student of IT Engineering at SPPU, moreover from my studies im c
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 - 👨‍💻 Check out my [**Github Page**](https://pavanpatil45.github.io)
-- 📄 Download [**Resume**](https://drive.google.com/file/d/13AUfOhuV-YQPLMG2MGtasFch4W48SKKD/view?usp=sharing)
+- 📃 Download [**Resume**](https://drive.google.com/file/d/13AUfOhuV-YQPLMG2MGtasFch4W48SKKD/view?usp=sharing)
 - 📫 How to reach me **pavanadhao685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
