@@ -31,7 +31,6 @@ Student of IT Engineering at SPPU, moreover from my studies im currently develop
 <a href="https://www.firebase.com/" target="_blank"> <img src="/tools used/firebase.png" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/tools used/git.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.debian.org/" target="_blank"> <img src="/tools used/debian.svg" alt="debian" width="30" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="/tools used/illustrator.svg" alt="illustrator" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
 
