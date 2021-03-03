@@ -28,7 +28,7 @@ Student of IT Engineering at SPPU, moreover from my studies im currently develop
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="/tools used/c.svg" alt="c" width="30" height="30"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="/tools used/flutter.svg" alt="flutter" width="30" height="30"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/mysql.svg" alt="mysql" width="30" height="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/php.svg" alt="mysql" width="100"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/php.svg" alt="mysql" width="50"/> </a> 
 <a href="https://www.firebase.com/" target="_blank"> <img src="/tools used/firebase.png" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/tools used/git.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.debian.org/" target="_blank"> <img src="/tools used/debian.svg" alt="debian" width="30" height="30"/> </a>
