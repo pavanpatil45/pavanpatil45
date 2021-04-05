@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)-->
-## Hi I'm Pavan <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">-->
+## Hey Im Pavan <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">-->
 <!--<h1 align="center">Hi 👋, I'm P4V4N</h1>-->
 Student of IT engg. @sppu, moreover from my studies im currently Learning & developing native Android apps & Web apps. Sometimes im become a guy who tryna learn pretty much about everything :D maybe the reason im always enthusiastic about new frameworks and tools, but for real Android is <3
 
