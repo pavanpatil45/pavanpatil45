@@ -15,7 +15,7 @@ Student of IT Engg. @sppu, beside of my studies im currently Learning & developi
 
 !INCLUDE "/my_links.md"
 
-<include src="./my_links.md"></include>
+<p src="./my_links.md"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
