@@ -11,16 +11,9 @@ Student of IT Engg. @sppu, beside of my studies im currently Learning & developi
 - 📃 Download [**Resume**](https://drive.google.com/file/d/13AUfOhuV-YQPLMG2MGtasFch4W48SKKD/view?usp=sharing)
 - 📫 How to reach me **pavanadhao685@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://instagram.com/p4v4n" target="blank"><img align="center" src="/connect with me/insta.png" alt="instagram" width="30" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/14926087/pavan-patil?tab=profile " target="blank"><img align="center" src="/connect with me/stack.svg" alt="stack-overflow" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/pavan-patil-445a33150" target="blank"><img align="center" src="/connect with me/linkedin.webp" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/pavan_patil45" target="blank"><img align="center" src="/connect with me/twitter.png" alt="twitter" width="30" /></a>&nbsp;
-<a href="https://facebook.com/pavanpatil450" target="blank"><img align="center" src="/connect with me/facebook.webp" alt="facebook" height="30" width="30" /></a>&nbsp;
-<a href="https://www.reddit.com/user/p4v4n_45" target="blank"><img align="center" src="/connect with me/reddit.svg" alt="reddit" width="30" /></a>&nbsp;
-</p>
+<a src="./my_links.md"></a>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--<a href="https://www.oracle.com/in/java/" target="_blank"> <img src="/tools used/java.svg" alt="java" width="30" height="30"/> </a>-->
