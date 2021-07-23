@@ -11,9 +11,9 @@ Student of IT Engg. @sppu, beside of my studies im currently Learning & developi
 - 📃 Download [**Resume**](https://drive.google.com/file/d/13AUfOhuV-YQPLMG2MGtasFch4W48SKKD/view?usp=sharing)
 - 📫 How to reach me **pavanadhao685@gmail.com**
 
-<a src="./my_links.md"></a>
+<a src="/my_links.md"></a>
 
-!INCLUDE "./my_links.md"
+!INCLUDE "/my_links.md"
 
 
 <h3 align="left">Languages and Tools:</h3>
