@@ -3,7 +3,6 @@
 <!--<h1 align="center">Hi 👋, I'm P4V4N</h1>-->
 Student of IT Engg. @sppu, beside of my studies im currently Learning & developing native Android apps & Web apps. Sometimes im become a guy who tryna learn pretty much about everything :D maybe the reason im always enthusiastic about new frameworks and tools, but for real Android is <3
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanpatil45&label=Profile%20views&color=129e00&style=plastic" alt="pavanpatil45" /> </p>
 <img align="right" alt="Coding" width="350" src="./g8.gif">
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
